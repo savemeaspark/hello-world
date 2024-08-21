@@ -1,2 +1,2 @@
 # hello-world
-for practice
+starting a 100 days of code challenge
